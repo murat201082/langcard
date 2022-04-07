@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "//langcard/static/css/main.0b167908.css",
-    "main.js": "//langcard/static/js/main.d71d302a.js",
-    "static/media/php.png": "//langcard/static/media/php.c767c5711b90ad735bbf.png",
-    "static/media/python.png": "//langcard/static/media/python.40f1d1b14bc2113b7b05.png",
-    "static/media/go.png": "//langcard/static/media/go.a0b3b49ab90e11213e6d.png",
-    "static/media/css.png": "//langcard/static/media/css.616d011c7fdb34d35b95.png",
-    "static/media/javascript.png": "//langcard/static/media/javascript.7f8751632b42a9932c15.png",
-    "static/media/react.svg": "//langcard/static/media/react.7b78f5c3c3acf6dd7722fd9c2f83c963.svg",
-    "static/media/java.png": "//langcard/static/media/java.a507ef793e957ee9b476.png",
-    "static/media/cpp.png": "//langcard/static/media/cpp.c0a0d2fd9fd3519dbdce.png",
-    "index.html": "//langcard/index.html",
-    "main.0b167908.css.map": "//langcard/static/css/main.0b167908.css.map",
-    "main.d71d302a.js.map": "//langcard/static/js/main.d71d302a.js.map"
+    "main.css": "/langcard/solution/static/css/main.0b167908.css",
+    "main.js": "/langcard/solution/static/js/main.fb537966.js",
+    "static/media/php.png": "/langcard/solution/static/media/php.c767c5711b90ad735bbf.png",
+    "static/media/python.png": "/langcard/solution/static/media/python.40f1d1b14bc2113b7b05.png",
+    "static/media/go.png": "/langcard/solution/static/media/go.a0b3b49ab90e11213e6d.png",
+    "static/media/css.png": "/langcard/solution/static/media/css.616d011c7fdb34d35b95.png",
+    "static/media/javascript.png": "/langcard/solution/static/media/javascript.7f8751632b42a9932c15.png",
+    "static/media/react.svg": "/langcard/solution/static/media/react.7b78f5c3c3acf6dd7722fd9c2f83c963.svg",
+    "static/media/java.png": "/langcard/solution/static/media/java.a507ef793e957ee9b476.png",
+    "static/media/cpp.png": "/langcard/solution/static/media/cpp.c0a0d2fd9fd3519dbdce.png",
+    "index.html": "/langcard/solution/index.html",
+    "main.0b167908.css.map": "/langcard/solution/static/css/main.0b167908.css.map",
+    "main.fb537966.js.map": "/langcard/solution/static/js/main.fb537966.js.map"
   },
   "entrypoints": [
     "static/css/main.0b167908.css",
-    "static/js/main.d71d302a.js"
+    "static/js/main.fb537966.js"
   ]
 }
